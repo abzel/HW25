@@ -1,0 +1,39 @@
+.phoenix {
+    position: absolute;
+    width: 512px;
+    height: 1025px;
+    left: 681px;
+    top: 548px;
+}
+
+.jet {
+    position: absolute;
+    width: 512px;
+    height: 1025px;
+    left: 1265px;
+    top: 548px;
+}
+
+.sova {
+    position: absolute;
+    width: 512px;
+    height: 1025px;
+    left: 1849px;
+    top: 548px;
+}
+
+.sage {
+    position: absolute;
+    width: 512px;
+    height: 1025px;
+    left: 2433px;
+    top: 548px;
+}
+
+.agent {
+    position: absolute;
+    width: 210px;
+    height: 1015px;
+    left: 405px;
+    top: 548px;
+}

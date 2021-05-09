@@ -1,0 +1,16 @@
+.header {
+    position: absolute;
+    width: 2660px;
+    height: 132px;
+    left: 220px;
+    top: 303px;
+    background: #1F2326;
+}
+
+.textHeader {
+    position: absolute;
+    width: 2515px;
+    height: 43px;
+    left: 293px;
+    top: 347px;
+}

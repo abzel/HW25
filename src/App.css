@@ -1,0 +1,75 @@
+    .App {
+        position: absolute;
+        width: 3099px;
+        height: 2323px;
+        background-color: black;
+    }
+    
+    .backBody {
+        position: absolute;
+        width: 2660px;
+        height: 1716px;
+        mix-blend-mode: multiply;
+    }
+    
+    .figmaLogo {
+        position: absolute;
+        width: 100px;
+        height: 100px;
+        left: 80px;
+        top: 80px;
+    }
+    
+    .textFree {
+        position: absolute;
+        width: 155px;
+        height: 31px;
+        left: 204px;
+        top: 114px;
+        font-family: Montserrat;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 32px;
+        line-height: 39px;
+        color: #F8F8F8;
+    }
+    
+    .mainBody {
+        position: absolute;
+        width: 2660px;
+        height: 1716px;
+        left: 220px;
+        top: 303px;
+        background: #FF4656;
+        border-radius: 32px;
+    }
+    
+    .ellipse42 {
+        position: absolute;
+        width: 268px;
+        height: 269px;
+        left: 2727px;
+        top: 182px;
+    }
+    
+    .ellipse44 {
+        position: absolute;
+        width: 98px;
+        height: 98px;
+        left: 2946px;
+        top: 475px;
+    }
+    
+    .ellipse41 {
+        position: absolute;
+        left: 177px;
+        top: 2114px;
+    }
+    
+    .ellipse45 {
+        position: absolute;
+        width: 63px;
+        height: 63px;
+        left: 112px;
+        top: 2082px;
+    }
